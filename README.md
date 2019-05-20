@@ -1,10 +1,8 @@
-<b>
-   PIE now lives in the <a href="https://github.com/SaswatPadhi/LoopInvGen">
-   LoopInvGen repo</a> as an OCaml module within the LoopInvGen system.
-   We provide an <a href="https://github.com/SaswatPadhi/LoopInvGen/tree/master/app">
-   example application</a> that demonstrates how to use this module.
-   The module is significantly faster than the original PIE and is easier to use.
-</b>
+**PIE now lives in the [LoopInvGen repo](https://github.com/SaswatPadhi/LoopInvGen)
+as an OCaml module within the LoopInvGen system.
+We provide an [example application](https://github.com/SaswatPadhi/LoopInvGen/tree/master/app)
+that demonstrates how to use this module.<br>
+The module is significantly faster than the original PIE and is easier to use.**
 
 This repository is only for archival purposes.
 We make the original benchmarks used for evaluating (the original) PIE,
